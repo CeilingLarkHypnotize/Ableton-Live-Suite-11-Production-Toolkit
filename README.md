@@ -1,11 +1,3 @@
-**Repository Name:** Ableton-Live-Suite-11-Production-Toolkit
-
-**GitHub Description:** Professional project templates, instrument racks, effects chains, and production workflows for Ableton Live Suite 11.
-
-**GitHub Topics:** ableton-live, music-production, electronic-music, sound-design, daw, templates, workflow, audio-engineering, midi, synthesizers, sampling, live-performance, mixing, mastering, creative-toolkit
-
----
-
 # Ableton-Live-Suite-11-Production-Toolkit
 
 Professional collection of project templates, instrument racks, effects chains, and production workflows for Ableton Live Suite 11.
